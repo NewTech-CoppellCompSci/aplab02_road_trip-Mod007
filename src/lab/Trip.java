@@ -56,8 +56,7 @@ public class Trip {
 		trip.addDistance(108.6);
 		trip.addFuel(7.5);
 		
-		System.out.println(trip);
-		
+		System.out.println(trip.toString());
 	}
 	
 	
